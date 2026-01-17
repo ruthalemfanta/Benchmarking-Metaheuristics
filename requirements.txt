@@ -5,3 +5,5 @@ deap
 matplotlib
 stable-baselines3
 pygame
+gymnasium[box2d]
+scipy
