@@ -4,3 +4,4 @@ gymnasium
 deap
 matplotlib
 stable-baselines3
+pygame
